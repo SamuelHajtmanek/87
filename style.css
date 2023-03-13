@@ -1,0 +1,30 @@
+.text1 {
+    font-size: 21px;
+    color: royalblue;
+}
+
+.obrasťok1 {
+    height: 300px;
+    width: 320px;
+    margin-right: 170px;
+    margin-left: 170px;
+}
+
+.lietadlo {
+    font-size: 18px;
+    color: royalblue;
+
+}
+
+th {
+    font-weight: bolder;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin: auto;
+}
